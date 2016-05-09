@@ -1,0 +1,3 @@
+[submodule "SerializationCommon"]
+	path = SerializationCommon
+	url = https://github.com/chebz/SerializationCommon.git
